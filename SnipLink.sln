@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnipLink.Core", "src\SnipLink.Core\SnipLink.Core.csproj", "{7E2A91C4-3B58-4F16-A0D7-6C91E4B82FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnipLink", "src\SnipLink\SnipLink.csproj", "{C51D08E7-9A24-4E6B-B3F1-82D07C5A19BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnipLink.Tests", "tests\SnipLink.Tests\SnipLink.Tests.csproj", "{1F6B4A93-D8C0-4A57-9E12-4B7C0D5E8A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2A91C4-3B58-4F16-A0D7-6C91E4B82FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2A91C4-3B58-4F16-A0D7-6C91E4B82FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2A91C4-3B58-4F16-A0D7-6C91E4B82FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2A91C4-3B58-4F16-A0D7-6C91E4B82FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C51D08E7-9A24-4E6B-B3F1-82D07C5A19BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51D08E7-9A24-4E6B-B3F1-82D07C5A19BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51D08E7-9A24-4E6B-B3F1-82D07C5A19BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51D08E7-9A24-4E6B-B3F1-82D07C5A19BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6B4A93-D8C0-4A57-9E12-4B7C0D5E8A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6B4A93-D8C0-4A57-9E12-4B7C0D5E8A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6B4A93-D8C0-4A57-9E12-4B7C0D5E8A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6B4A93-D8C0-4A57-9E12-4B7C0D5E8A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

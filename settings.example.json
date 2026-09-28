@@ -1,0 +1,6 @@
+{
+  "webhookUrl": "",
+  "shorten": false,
+  "delaySeconds": 0,
+  "autostart": false
+}
